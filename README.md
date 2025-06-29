@@ -12,8 +12,8 @@ Cada projeto explora uma estrutura de dados clássica aplicada à resolução de
 
 Ao longo da disciplina, foram implementadas e aplicadas diversas estruturas fundamentais da Ciência da Computação, incluindo:
 
-  Lista encadeada;
-  Pilhas e Filas;
-  Árvores (árvore binária de busca, AVL e heap);
-  Tabelas Hash;
+Lista encadeada;
+Pilhas e Filas;
+Árvores (árvore binária de busca, AVL e heap);
+Tabelas Hash;
   
